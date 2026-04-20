@@ -1,5 +1,5 @@
 
-````markdown
+
 # OverTheWire Bandit Walkthrough 
 
 This walkthrough explains what to type, why it works, and alternative ways to achieve the same result.

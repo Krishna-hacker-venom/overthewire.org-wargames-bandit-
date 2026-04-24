@@ -1,4 +1,4 @@
-# OverTheWire Bandit Walkthrough (Levels 1–9)
+# OverTheWire Bandit Walkthrough (Levels 1–10)
 
 This walkthrough explains commands, why they are used, and alternative approaches.
 
